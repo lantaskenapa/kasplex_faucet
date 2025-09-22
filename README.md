@@ -1,4 +1,4 @@
-# kasplex_faucet kas
+# kasplex_faucet
 kasplex faucet
 
 
